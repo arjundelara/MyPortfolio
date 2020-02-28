@@ -24,3 +24,5 @@
 
 2020-02-28T07:49:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\MyPortfolio\wp-includes\wp-db.php on line 2007
 
+2020-02-28T09:12:45+00:00 CRITICAL Maximum execution time of 3000 seconds exceeded in C:\xampp\htdocs\MyPortfolio\wp-includes\wp-db.php on line 2007
+
