@@ -1,0 +1,30 @@
+.night-mode{
+    body{
+      background-color: #252525;
+      color: $color_white;
+    }
+    .theme-mode{
+      .fa-adjust{
+          &:before{
+              content: "\f042";
+          }
+      }
+    }
+    a{
+      color: $color_white;
+      &:visited{
+        color: $color_white;
+      }
+      &:hover{
+        color: $color_primary;
+      }
+    }
+    
+}
+.theme-mode{
+  .fa-adjust{
+      &:before{
+          content: "\f186";
+      }
+  }
+}

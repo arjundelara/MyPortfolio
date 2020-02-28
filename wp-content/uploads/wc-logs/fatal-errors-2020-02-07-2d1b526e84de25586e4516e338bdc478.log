@@ -1,0 +1,8 @@
+2020-02-07T03:34:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\functions.php on line 5573
+
+2020-02-07T03:37:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\wp-db.php on line 2007
+
+2020-02-07T03:40:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\wp-db.php on line 2007
+
+2020-02-07T04:09:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\wp-db.php on line 2007
+
