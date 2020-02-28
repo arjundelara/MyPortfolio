@@ -9,6 +9,5 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /myportfolio/index.php [L]
 </IfModule>
 
-php_value max_execution_time 30000
 
 # END WordPress
