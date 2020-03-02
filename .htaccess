@@ -10,4 +10,10 @@ RewriteRule . /myportfolio/index.php [L]
 </IfModule>
 
 
+
 # END WordPress
+	# WP Maximum Execution Time Exceeded
+	<IfModule mod_php5.c>
+		
+	</IfModule>
+
